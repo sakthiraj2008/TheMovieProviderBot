@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://telegra.ph/file/6fa70325813885809a64a.jpg" alt="The Movie Provider Bot Logo">
-</p>
 <h1 align="center">
-  <a href="https://telegram.me/TheMovieProviderBot">THE MOVIE PROVIDER BOT</a>
+  THE MOVIE PROVIDER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER-BOT;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
@@ -107,7 +104,7 @@ restart - ʀᴇꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ...
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/HarshalPurohitEdits/TheMovieProviderBot">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Tamilupdates/TheMovieProviderBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
