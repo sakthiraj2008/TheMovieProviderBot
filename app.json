@@ -15,8 +15,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
-    "repository": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
+    "repository": "https://github.com/Tamilupdates/TheMovieProviderBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -75,7 +74,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "eco"
+            "size": "Basic"
         }
     }
 }
